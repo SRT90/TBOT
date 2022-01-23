@@ -1,5 +1,5 @@
 {
-  "name": "TBOT",
+  "name": "TdMClient",
   "version": "2.0.0",
   "description": "Somente um Crash Client para WhatsApp",
   "main": "tdm.js",
