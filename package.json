@@ -1,5 +1,5 @@
 {
-  "name": "TdMClient",
+  "name": "TBOT",
   "version": "2.0.0",
   "description": "Somente um Crash Client para WhatsApp",
   "main": "tdm.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "davizinmaker",
+  "author": "T90 mᎾᎠs",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
